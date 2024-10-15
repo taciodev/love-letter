@@ -1,0 +1,24 @@
+# Node modules
+node_modules/
+
+# Diretório de build/output
+dist/
+
+# Arquivos temporários do sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos de logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# SASS/SCSS cache
+.sass-cache/
+
+# Arquivos de dependências bloqueadas
+package-lock.json
+yarn.lock
+
+# Arquivos de ambiente
+.env
