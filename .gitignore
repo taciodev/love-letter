@@ -2,7 +2,7 @@
 node_modules/
 
 # Diretório de build/output
-dist/
+# dist/
 
 # Arquivos temporários do sistema
 .DS_Store
